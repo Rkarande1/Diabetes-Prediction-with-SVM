@@ -1,1 +1,2 @@
 # Diabetes-Prediction-with-SVM
+In this project, we use machine learning, specifically Support Vector Machines (SVM), to predict whether an individual has diabetes based on various health-related features. We start by loading and analyzing the dataset, then standardize the data to ensure consistency. After splitting the data into training and testing sets, we train an SVM classifier and evaluate its accuracy. Finally, we apply the trained model to predict diabetes status for a new data point.
